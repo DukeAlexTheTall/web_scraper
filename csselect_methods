@@ -1,0 +1,16 @@
+Select any tag: *
+Select by tag <a>: a
+Select by class of "link": .link
+Select by tag <a> with class "link": a.link
+Select by tag <a> with ID "home": a#home
+Select by child <span> of tag <a>: a > span
+Select by descendant <span> of tag <a>: a span
+Select by tag <a> with attribute title of "Home": a[title=Home]
+
+
+
+
+
+
+
+
